@@ -1,0 +1,13 @@
+xlm-roberta-large
+deepset/gbert-base
+deepset/bert-base-german-cased-hatespeech-GermEval18Coarse
+Hate-speech-CNERG/dehatebert-mono-german
+
+
+facebook/roberta-hate-speech-dynabench-r4-target
+chrisrtt/gbert-multi-class-german-hate
+deepset/bert-base-german-cased-hatespeech-GermEval18Coarse
+ikim-uk-essen/geberta-base
+ikim-uk-essen/geberta-large
+Hate-speech-CNERG/dehatebert-mono-german
+ml6team/distilbert-base-german-cased-toxic-comments
